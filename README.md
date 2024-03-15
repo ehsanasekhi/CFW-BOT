@@ -47,7 +47,7 @@ This Python Telegram bot, powered by Cloudflare's Workers, makes generating Xray
 4. in your Dashboard section Select Files and and Click on "Open Bash Console Here"
 5.  Clone this repository:
  ```bash
- git clone https://github.com/2ri4eUI/CFW-BOT.git
+ git clone https://github.com/ehsanasekhi/CFW-BOT.git
 ```
 6. Navigate to the project directory:
 
